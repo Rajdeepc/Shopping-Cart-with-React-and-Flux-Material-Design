@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.appWrapper
+{
+  background:#fafafa;
+}
+.card{
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align:center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16)
+}
+.cart_item {
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16);
+    border: 1px solid #ccc;
+}
+.title {
+    font-size: 25px;
+}
+.cost {
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.summary {
+    font-size: 12px;
+    padding: 15px 0px;
+    color: #7d7d7d;
+}
+.total {
+    text-align: right;
+    font-size: 30px;
+}
+.itemqty {
+    margin-top: 12px;
+}
